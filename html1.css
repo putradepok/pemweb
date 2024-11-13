@@ -1,0 +1,32 @@
+.container {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+    flex-grow: 10;
+    margin: 100;
+ }
+
+.container2 {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+    flex-grow: 10;
+    margin: 100;
+ }
+ .img-item {
+    width: 100px;
+    display: flex;
+    justify-content: center;
+    width: 167px;
+    height: 60px;
+    margin: 100;
+ }
+
+ .img-item2{
+   width: 100px;
+   display: flex;
+   justify-content:center;
+   margin: 50;
+}
